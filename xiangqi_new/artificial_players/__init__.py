@@ -1,0 +1,1 @@
+from artificial_players.artificial_player import ArtificialPlayer

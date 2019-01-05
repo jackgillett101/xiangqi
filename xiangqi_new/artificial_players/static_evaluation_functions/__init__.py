@@ -1,0 +1,1 @@
+from artificial_players.static_evaluation_functions.evaluation_function import EvaluationFunction
